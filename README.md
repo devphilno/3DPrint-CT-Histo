@@ -80,10 +80,15 @@ Generated CSV files required for the workflows are stored in the **`CSV/`** dire
 * Segment Anything Model (SAM): [SAM2](https://github.com/facebookresearch/sam2)
 
 ## Citation
+The publication can be found here:
+https://doi.org/10.3389/fmedt.2025.1702201
 
 If you use this repository, please cite the associated publication:
 
-> *[Add citation once available]*
+**Nolte P**, Ackurat CJ, Brettmacher M, Reichardt M, Stammes M, Rußmann C, Dullin C (2025).  
+*X-ray contrast-adjustable 3D printing for multimodal fusion of microCT and histology.*  
+**Frontiers in Medical Technology**, 7:1702201. doi:10.3389/fmedt.2025.1702201
+
 
 ---
 
